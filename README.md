@@ -5,7 +5,7 @@ Code for "Leveraging Bilateral Correlations for Multi-Label Few-Shot Learning" i
 If you use the code in this repo for your work, please cite the following bib entries:
 
 ```
-@ARTICLE{10041935,
+@ARTICLE{TNNLS.2024.3388094,
   author={An, Yuexuan and Xue, Hui and Zhao, Xingyu and Xu, Ning and Fang, Pengfei and Geng Xin},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Leveraging Bilateral Correlations for Multi-Label Few-Shot Learning}, 
