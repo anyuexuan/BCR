@@ -1,4 +1,4 @@
-# Code for IDEAL
+# Code for BCR
 
 Code for "Leveraging Bilateral Correlations for Multi-Label Few-Shot Learning" in IEEE Transactions on Neural Networks and Learning Systems.
 
